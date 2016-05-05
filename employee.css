@@ -1,0 +1,9 @@
+legend {color: red;}
+fieldset {border-width: .2em; width: 1em; }
+
+
+form{background:white;}
+body {background: gray;}
+
+#employeeAdded{ font-weight: bold; font-size: 2em;
+}
